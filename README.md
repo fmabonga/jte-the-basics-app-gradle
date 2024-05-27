@@ -1,1 +1,1 @@
-# pipeline-configuration
+# jte-the-basics-app-gradle
